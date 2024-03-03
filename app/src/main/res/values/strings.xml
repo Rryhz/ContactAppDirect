@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string-array name="contact">
+        <item>082315060203</item>
+        <item>082216430100</item>
+        <item>082315060203</item>
+        <item>082216430100</item>
+        <item>082315060203</item>
+        <item>082216430100</item>
+        <item>082315060203</item>
+        <item>082216430100</item>
+        <item>082315060203</item>
+        <item>082216430100</item>
+        <item>082315060203</item>
+        <item>082216430100</item>
+        <item>082315060203</item>
+        <item>082216430100</item>
+
+    </string-array>
+</resources>
